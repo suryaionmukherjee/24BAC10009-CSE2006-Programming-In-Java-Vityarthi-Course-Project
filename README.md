@@ -19,7 +19,7 @@ The Cricket Team Manager is a command-line interface (CLI) application developed
 ## Steps to Install & Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/suryaionmukherjee/CSE2006-Programming-In-Java-Vityarthi-Course-Project.git](https://github.com/suryaionmukherjee/CSE2006-Programming-In-Java-Vityarthi-Course-Project.git)
+   git clone https://github.com/suryaionmukherjee/CSE2006-Programming-In-Java-Vityarthi-Course-Project.git
    cd CSE2006-Programming-In-Java-Vityarthi-Course-Project
    ```
 2. **Compile the application:**
