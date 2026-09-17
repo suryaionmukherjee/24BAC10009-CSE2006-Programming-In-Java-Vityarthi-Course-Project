@@ -8,11 +8,11 @@ This project focuses on delivering a robust, console-based application for local
 
 ## Target Users
 *   **Team Managers & Administrators:** For maintaining accurate, up-to-date player rosters.
-*   **Coaches:** For analyzing historical performance data and filtering squads by role or form.
+*   **Coaches:** For reviewing recorded performance data and filtering squads by role.
 *   **Scorers:** For logging match results and individual player statistics reliably.
 
 ## High-Level Features
-*   **Centralized Record Keeping:** Persistent CRUD operations utilizing an embedded SQLite database.
-*   **Categorized Roster Views:** On-demand sorting and filtering of players based on specific team roles.
-*   **Automated Match Logging:** Seamless recording of match data integrated with simulated background processing.
+*   **Centralized Record Keeping:** Persistent create and read operations for player and match records utilizing an embedded SQLite database.
+*   **Categorized Roster Views:** On-demand filtering of players based on specific team roles.
+*   **Match Logging with Countdown Simulation:** Recording of match performance data, preceded by a simulated background countdown thread.
 *   **Report Generation:** Quick exportation of database records into human-readable text files.
